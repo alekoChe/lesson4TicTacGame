@@ -15,7 +15,7 @@ public class NewTicTacGame {
     private static final char ELEMENT_X = 'X';
     private static final char ELEMENT_0 = '0';
 
-    public static void main(String[] args) {
+    public static void main(String[] args) {  // komment
 
         scanner = new Scanner(System.in);  // инициализируем сканнер
         random = new Random();
